@@ -1,0 +1,1 @@
+allKEYWORD1	linksBovenKEYWORD2	linksOnderKEYWORD3	rechtsBovenKEYWORD4	rechtsOnderKEYWORD5	printMenuKEYWORD6	MenuKEYWORD7
